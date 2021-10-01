@@ -1,0 +1,16 @@
+{
+  "name": "vaccine_update",
+  "version": "1.0.0",
+  "description": "send notifications of vaccine availability to msteams webhook",
+  "main": "vaccine_update.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Joseph",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
+  }
+}
